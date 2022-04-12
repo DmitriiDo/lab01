@@ -139,7 +139,8 @@ $ gist REPORT.md
 
 10. Подсчитайте сколько занимает дискового пространства каждый файл в этой директории.![10](https://user-images.githubusercontent.com/103374133/162952319-c761f2aa-18c2-475f-8408-89304ac05dfc.jpg)
 
-11. Найдите *топ10* самых "тяжёлых".
+11. Найдите *топ10* самых "тяжёлых".<img width="711" alt="image" src="https://user-images.githubusercontent.com/103374133/162991590-e238e7dc-315a-46de-b3c2-dd433f981e4b.png">
+
 
 ```
 Copyright (c) 2015-2021 The ISC Authors
